@@ -1,0 +1,19 @@
+{
+  "name": "ras-creaciones-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "esbuild src/entry.js --bundle --format=esm --platform=browser --external:cloudflare:workers --outfile=dist/worker.mjs"
+  },
+  "dependencies": {
+    "image-size": "^2.1.0",
+    "jose": "^6.1.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}

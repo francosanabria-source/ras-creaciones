@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#FBE7DF"/><stop offset="1" stop-color="#FFE8E9"/></linearGradient>
+    <linearGradient id="pink" x2=".05" y2="1"><stop stop-color="#FFC4D5"/><stop offset=".52" stop-color="#EE7A9C"/><stop offset="1" stop-color="#C93F6D"/></linearGradient>
+    <linearGradient id="red" x2=".15" y2="1"><stop stop-color="#F85F83"/><stop offset=".5" stop-color="#D82453"/><stop offset="1" stop-color="#8E1538"/></linearGradient>
+    <linearGradient id="gold" x2=".15" y2="1"><stop stop-color="#F9E3A6"/><stop offset=".54" stop-color="#CFA24B"/><stop offset="1" stop-color="#B58228"/></linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".9"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".12"/></linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#7B2B4C" flood-opacity=".16"/></filter>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+    </defs><rect width="640" height="480" fill="url(#bg)"/><g opacity=".44"><circle cx="80" cy="78" r="90" fill="#FFFFFF"/><circle cx="558" cy="405" r="125" fill="#FFFFFF"/><path d="M-20 356C125 290 211 508 415 427S680 369 700 410" fill="none" stroke="#FFFFFF" stroke-width="3"/></g>
+    <ellipse cx="320" cy="402" rx="170" ry="29" fill="#B16F82" opacity=".14" filter="url(#soft)"/>
+    <g filter="url(#shadow)">
+<path d="M166 207H476V373Q476 390 458 390H185Q166 390 166 373Z" fill="url(#pink)"/>
+<path d="M166 238H476V258H166Z" fill="#C85277" opacity=".28"/>
+<rect x="147" y="181" width="350" height="69" rx="12" fill="#FFD3DD" stroke="#D97090" stroke-width="4"/>
+<path d="M295 182H355V390H295Z" fill="url(#red)"/>
+<path d="M148 205H496V233H148Z" fill="url(#red)"/>
+<path d="M326 194C262 147 225 92 260 81C292 71 326 118 325 169C342 119 365 75 396 90C434 113 374 166 326 194Z" fill="url(#red)" stroke="#B83359" stroke-width="6"/>
+<circle cx="327" cy="197" r="25" fill="#F06489" stroke="#B33256" stroke-width="6"/>
+<path d="M214 269H273" stroke="#FFEFF1" stroke-width="7" opacity=".5" stroke-linecap="round"/>
+</g><path d="M126 117.7 Q128.85 128.15 139.3 131 Q128.85 133.85 126 144.3 Q123.15 133.85 112.7 131 Q123.15 128.15 126 117.7Z" fill="#D2A240"/><path d="M522 301.5 Q524.25 309.75 532.5 312 Q524.25 314.25 522 322.5 Q519.75 314.25 511.5 312 Q519.75 309.75 522 301.5Z" fill="#D2A240"/><path d="M471 91.0 Q472.5 96.5 478.0 98 Q472.5 99.5 471 105.0 Q469.5 99.5 464.0 98 Q469.5 96.5 471 91.0Z" fill="#D2A240"/></svg>

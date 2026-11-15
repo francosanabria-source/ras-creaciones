@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "mostacillas",
+      "name": "Kit de mostacillas pastel",
+      "price": 8900,
+      "category": "insumos",
+      "description": "Colores suaves para crear sin límites.",
+      "image": "/images/b2b97798a6593204.svg",
+      "imageAlt": "Ilustración de mostacillas de colores en una bandeja.",
+      "badge": "Favorito"
+    },
+    {
+      "id": "cintas",
+      "name": "Cintas de raso x 5",
+      "price": 4800,
+      "category": "insumos",
+      "description": "Texturas delicadas para cada detalle.",
+      "image": "/images/d967d9da9b3a921d.svg",
+      "imageAlt": "Ilustración de cinco rollos de cinta de raso.",
+      "badge": ""
+    },
+    {
+      "id": "herramientas",
+      "name": "Set de herramientas creativas",
+      "price": 15900,
+      "category": "herramientas",
+      "description": "Todo a mano para tus proyectos.",
+      "image": "/images/c586e18126281e73.svg",
+      "imageAlt": "Ilustración de tijeras y herramientas manuales.",
+      "badge": ""
+    },
+    {
+      "id": "silicona",
+      "name": "Pistola de silicona mini",
+      "price": 12200,
+      "category": "herramientas",
+      "description": "Precisión para unir tus ideas.",
+      "image": "/images/f8b56f37ea6c47f9.svg",
+      "imageAlt": "Ilustración de una pistola de silicona rosa.",
+      "badge": "Práctico"
+    },
+    {
+      "id": "cajita",
+      "name": "Cajita regalo personalizada",
+      "price": 14500,
+      "category": "creaciones",
+      "description": "Una sorpresa que empieza al abrirla.",
+      "image": "/images/647a4c882ca4c73a.svg",
+      "imageAlt": "Ilustración de caja rosa con moño rojo.",
+      "badge": "Hecho a mano"
+    },
+    {
+      "id": "mono",
+      "name": "Moño boutique XL",
+      "price": 6800,
+      "category": "creaciones",
+      "description": "Un toque especial para regalar.",
+      "image": "/images/94b9fdb905890e69.svg",
+      "imageAlt": "Ilustración de un moño de tela rosa.",
+      "badge": ""
+    },
+    {
+      "id": "llavero",
+      "name": "Llavero corazón de resina",
+      "price": 9500,
+      "category": "creaciones",
+      "description": "Pequeños detalles con mucho amor.",
+      "image": "/images/16c71bed44009b84.svg",
+      "imageAlt": "Ilustración de un llavero con corazón rojo.",
+      "badge": ""
+    },
+    {
+      "id": "flores",
+      "name": "Apliques florales surtidos",
+      "price": 5700,
+      "category": "insumos",
+      "description": "Flores para dar vida a cada idea.",
+      "image": "/images/f0b2d88d1048f968.svg",
+      "imageAlt": "Ilustración de apliques florales artesanales.",
+      "badge": "Nuevo"
+    }
+  ],
+  "workshops": [
+    {
+      "id": "monos",
+      "title": "Moños y packaging creativo",
+      "description": "Una propuesta para explorar técnicas de moños, envoltorios y presentaciones para regalos.",
+      "topics": [
+        "Elección de materiales y texturas",
+        "Tipos de lazos y moños",
+        "Composición y terminaciones",
+        "Ideas para personalizar empaques"
+      ],
+      "image": "/images/94b9fdb905890e69.svg",
+      "imageAlt": "Moño artesanal de tela rosa",
+      "summary": "Descubrí cómo transformar cintas y envoltorios en presentaciones únicas."
+    },
+    {
+      "id": "resina",
+      "title": "Primeros pasos con resina",
+      "description": "Conocé posibilidades creativas para realizar piezas pequeñas y decorativas.",
+      "topics": [
+        "Materiales y preparación segura",
+        "Color, brillo y composición",
+        "Trabajo con moldes",
+        "Terminaciones y cuidados"
+      ],
+      "image": "/images/16c71bed44009b84.svg",
+      "imageAlt": "Corazón decorativo de resina roja",
+      "summary": "Ideas, colores y terminaciones para tus primeras piezas decorativas."
+    },
+    {
+      "id": "scrap",
+      "title": "Papelería y scrapbooking",
+      "description": "Aprendé a crear tarjetas, etiquetas y recuerdos con estilo propio.",
+      "topics": [
+        "Papeles y herramientas",
+        "Combinación de colores",
+        "Capas y composiciones",
+        "Proyectos para regalar"
+      ],
+      "image": "/images/647a4c882ca4c73a.svg",
+      "imageAlt": "Caja de regalo artesanal con moño",
+      "summary": "Creá tarjetas, etiquetas y recuerdos con tu estilo personal."
+    }
+  ],
+  "logo": "/images/401f028ec21fe719.webp"
+}
